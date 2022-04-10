@@ -59,7 +59,7 @@ global.namabot = 'Rulz Bot'
 
 global.namaowner = 'Owner Rulz Bot'
 
-global.myweb = 'https://youtube.com/c/SanzyYT'
+global.myweb = 'https://youtube.com/channel/UCgaoyyeZlObOfaSSuCJaPRg'
 
 
 global.owner = [ '6285230412839' ]
